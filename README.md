@@ -6,7 +6,7 @@ This program helps with scanning current driver problems and windows updates (pr
 ## Example of scanning:
 ![Example of scanning driver](Example.png)
 
-### Features
+### ⚙️Features
 - Can scan any driver problem/error that you have
 - Fix Windows Updates
 - Fix selected updates via windows update (gives you a menu from 0 to N, depends what problem and driver occurred, it gives you an Index, if you have 0..4, you should try to start from 0 then upwards)
