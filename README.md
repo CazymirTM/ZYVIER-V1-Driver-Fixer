@@ -1,6 +1,8 @@
 # ZYVIER V1 - Driver Fixer 
 This program helps with scanning current driver problems and windows updates (problems) and reassures to fix them or if it can't fix, it tells you exactly what the problem and tries to redirect you to fix manually.
 
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/ZYVIER-V1-Driver-Fixer/releases/latest)
+
 ## Example of scanning:
 ![Example of scanning driver](Example.png)
 
@@ -13,5 +15,3 @@ This program helps with scanning current driver problems and windows updates (pr
 - Install local INF (pnputil)
 - Rescan (PnP)
 - Logs everything that the program does in C:\Users\*YOURUSER*\AppData\Local\ZYVIER\Logs
-
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/ZYVIER-V1-Driver-Fixer/releases/latest)
