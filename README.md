@@ -1,5 +1,5 @@
 # ZYVIER V1 - Driver Fixer 
-Scans driver problems, fixes, scans, installing (official sources only)
+This program helps with scanning current driver problems and windows updates (problems) and reassures to fix them or if it can't fix, it tells you exactly what the problem and tries to redirect you to fix manually.
 
 ## Features
 - Can scan any driver problem/error that you have
